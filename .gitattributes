@@ -1,4 +1,7 @@
+# Mark Java files as detectable by Linguist
 *.java linguist-detectable=true
+
+# Exclude HTML, CSS, JavaScript, and Roff files from being detected by Linguist
 *.html linguist-detectable=false
 *.css linguist-detectable=false
 *.js linguist-detectable=false
